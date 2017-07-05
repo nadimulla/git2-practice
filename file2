@@ -1,6 +1,8 @@
 
-public class login main
+public class login
+
 {
-psvm()
+public static void main()
+
 }
 
